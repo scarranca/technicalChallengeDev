@@ -1,3 +1,5 @@
+![](https://gigstack.pro/images/gigstack-pro.png)
+
 # Technical Challenge for Full-Stack Developers
 
 ## Why
@@ -34,6 +36,8 @@ Note: You can use the following configuration for the global invoice:
 2. Group global invoices by currency and use the exchange rate of the day when the currency is different from the Mexican Pesos (MXN).
 3. Ensure that each global invoice does not contain more than 750 items.
 4. Develop a dashboard to visualize payments and invoices, showing real-time updates.
+
+![](assets/diagram.png)
 
 ## Answer the Questions
 
