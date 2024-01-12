@@ -37,13 +37,9 @@ Note: You can use the following configuration for the global invoice:
 
 ## Answer the Questions
 
-1. **How do you ensure that your solution is scalable for “n” number of online stores?**
-   
-   To ensure scalability for "n" number of online stores, the system architecture should be designed with modularity and scalability in mind. Implement a microservices architecture where each online store is handled independently. Use containerization (e.g., Docker) for scalability and easy deployment. Employ load balancing for even distribution of requests among different instances. Additionally, consider implementing a message queue system to handle asynchronous processing of invoices for multiple stores.
+1. **How do you ensure that your solution is scalable for “n” number of online stores?** 
 
 2. **If each e-commerce increases its sales by 10% each month and the number of online stores increases by 15% each month, how do you ensure that your code will execute all global invoices in one minute?**
-
-   To handle the increasing load, optimize the code for performance and efficiency. Use caching mechanisms to store frequently accessed data, reducing the need for repetitive computations. Implement parallel processing and asynchronous tasks to handle multiple invoices simultaneously. Consider auto-scaling mechanisms in cloud resources to dynamically adjust resources based on demand. Regularly monitor and optimize the code for bottlenecks. Perform load testing to identify potential issues and scale resources accordingly.
 
 ## Requirements
 
