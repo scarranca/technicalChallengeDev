@@ -54,7 +54,7 @@ Note: You can use the following configuration for the global invoice:
 5. Use [ant.design](https://ant.design) to design the components.
 6. Use Firebase Firestore to store data.
 7. Use the GCP resources that you consider appropriate for your solution (deployment is not required).
-8. Submit your solution in a zip file or provide access to a GitHub repository.
+8. Submit and provide access to a GitHub repository.
 9. In each call to the Gigstack API, add your email to the metadata.
 
 ## Resources
